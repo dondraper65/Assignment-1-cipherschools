@@ -1,0 +1,47 @@
+header{
+    font-family:Dubai;
+    text-align: center;
+    font-size: 28px;
+    
+}
+
+body{
+    background-color: khaki;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.btn{
+
+    border-radius: 8px;
+    padding: 15px 50px;
+    font-size: 28px;
+    font-family: Dubai;
+
+}
+
+.stopwatch{
+    
+    text-align: center;
+    padding: 50px 0px 100px;
+    font-size: 48px;
+
+}
+
+#stopwatch{
+    background-color: lavender;
+    padding: 30px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Dubai;
+}
+
+p{
+    text-align: center;
+}
